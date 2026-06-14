@@ -1,4 +1,4 @@
-<img width="1723" height="874" alt="image" src="https://github.com/user-attachments/assets/260704e4-7b24-4aea-a09b-2868ac19e373" /># 🎾 AI-Powered Tennis Video Analysis System
+# 🎾 AI-Powered Tennis Video Analysis System
 
 An AI-powered tennis video analysis system that combines Computer Vision, Deep Learning, Object Tracking, and Spatial Analytics to automatically analyze professional tennis matches.
 
