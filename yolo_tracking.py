@@ -1,0 +1,3 @@
+from ultralytics import YOLO
+model = YOLO('yolov8x')  # load a pretrained model (recommended for training)
+result = model.track(r"input_videos\input_video.mp4",conf=0.2, save=True)

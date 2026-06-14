@@ -1,0 +1,31 @@
+
+========== MATCH ANALYSIS ==========
+
+PLAYER 1
+--------------------------------
+Average Shot Speed:
+39.17 km/h
+
+Court Coverage:
+2479.68
+
+Total Distance Covered:
+260.78
+
+Play Style:
+Balanced
+
+
+PLAYER 2
+--------------------------------
+Average Shot Speed:
+37.64 km/h
+
+Court Coverage:
+2152.0
+
+Total Distance Covered:
+323.23
+
+Play Style:
+Balanced
